@@ -56,3 +56,8 @@ Note: The data we have given is a static data set, so you can hard code the curr
         2. Output
             - if report generation is not complete, return “Running” as the output
             - if report generation is complete, return “Complete” along with the CSV file with the schema described above.
+          
+## Screenshots
+![trigger_report](https://github.com/secret-shifters/Store-monitoring/blob/main/Screenshot%202023-08-13%20185852.png)
+![get_report](https://github.com/secret-shifters/Store-monitoring/blob/main/Screenshot%202023-08-13%20185930.png)
+![report_generated](https://github.com/secret-shifters/Store-monitoring/blob/main/Screenshot%202023-08-13%20203046.png)
