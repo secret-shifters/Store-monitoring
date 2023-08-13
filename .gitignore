@@ -1,0 +1,11 @@
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore database files
+*.db
+*.sqlite3
+
+report
